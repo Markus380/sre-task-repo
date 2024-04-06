@@ -4,7 +4,7 @@
     receivers:
     - name: 'slack-notificaions'
       slack_configs:
-      - channel: '#upcommerce-alerts' 
+      - channel: '#upcommerce-dev' 
         send_resolved: true
     route:
       group_interval: 5m
