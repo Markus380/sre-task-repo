@@ -1,5 +1,5 @@
 
-Website Kubernetes Deployment
+
 In this project, we'll deploy a website as a service on Kubernetes. We'll define alert rules based on key performance indicators (KPIs) like CPU utilization, memory usage, and request rates, 
 allowing the detection and response to potential issues before they affect user experience.
 
